@@ -1,6 +1,8 @@
 # Code Test: Heart Burn Survey
 
-![](heart-burn-survery-demo.mp4)
+<video width="320" height="240" controls>
+  <source src="heart-burn-survey-demo.mp4" type="video/mp4">
+</video>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
