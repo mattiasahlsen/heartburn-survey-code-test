@@ -1,8 +1,7 @@
 # Code Test: Heart Burn Survey
 
-<video width="320" height="240" controls>
-  <source src="heart-burn-survey-demo.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/10047604/223874038-7ba17d11-ede5-44c9-b9eb-0062686b35b7.mp4
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
